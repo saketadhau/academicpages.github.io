@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.E in Instrumentation and Control, Savitribai Phule Pune University, Pune, 2017
-* M.Tech. in Instrumentation and Control - Bio-Medical Instrumentation, College of Engineering, Pune, 2019
-
+* 2017 - 2019: M.Tech. in Instrumentation and Control - Biomedical Instrumentation, College of Engineering, Pune (COEP).
+* 2013 - 2017: B.Engg in Instrumentation and Control, Savitribai Phule Pune University (SPPU).
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June - August, 2019: Post Graduate Trainee Engineer - Aker Solutions, Pune, Inida.
+  * Part of the Application Engineering Department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June - August, 2015: Intern - Bosch Chassis Systems Pvt. Ltd., Pune, Inida.
+  * PLC Backup, maintenance, reduction in MTTR and MTBR.
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019: Xilinx University program - Student support.
+  * Awarded with Xilinx Pynq kit for research.
 
-Publications
+* 2018: Student travel support program - Indian Control Conference (ICC), IIT Delhi.  
+
+Research Interests
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Machine learning - Deep Neural Networks and RL for control 
+* Non Linear Model Predictive Control 
+* Biomedical control applications
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2019: Invited for talk and presentation - MATLAB EXPO 2019, India. 
+  * Effective Classroom Teaching of Model Predictive Control Using MATLAB as Academic Coursework [[link](https://www.matlabexpo.com/in/2019/proceedings.html)] [[Slides](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/in/2019/effective-classroom-teaching.pdf)]
+
+
+[Download complete CV here](http://saketadhau.github.io/files/saket_CV.pdf) - Updated on 10 April 2021
