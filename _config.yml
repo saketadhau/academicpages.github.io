@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saket Adhau"
 title_separator          : "-"
 name                     : &name "Saket Adhau"
-description              : &description "Researcher - Machine Learning and Optimization"
+description              : &description "Researcher - Machine Learning and Optimization at NTNU"
 url                      : https://saketadhau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saketadhau/saketadhau.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : Saket Adhau
-  avatar           : "profile.png"
-  bio              : "Researcher - Machine Learning and Optimization"
+  avatar           : "saket.jpg"
+  bio              : "Researche Assitant - Machine Learning and Optimization at NTNU"
   location         : "Trondheim, Norway"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,17 +99,17 @@ author:
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "saket.adhau"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/saketadhau/"
+  linkedin         : "saketadhau"
   orcid            : "https://orcid.org/0000-0003-3776-5675"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@saketadhau29"
+  twitter          : "@saket_adhau"
   vine             :
   weibo            :
   xing             :
@@ -242,7 +242,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS
