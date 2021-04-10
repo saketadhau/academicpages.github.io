@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saket Adhau"
 title_separator          : "-"
 name                     : &name "Saket Adhau"
-description              : &description "Researcher - Machine Learning and Optimization at NTNU"
+description              : &description "Research Assistant - Machine Learning and Optimization at NTNU"
 url                      : https://saketadhau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saketadhau/saketadhau.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : Saket Adhau
   avatar           : "saket.jpg"
-  bio              : "Researche Assitant - Machine Learning and Optimization at NTNU"
+  bio              : "Research Assistant - Machine Learning and Optimization at NTNU"
   location         : "Trondheim, Norway"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
