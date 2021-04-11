@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+[Download complete CV here](http://saketadhau.github.io/files/saket_CV.pdf) - Updated on 10 April 2021
+
+
 Education
 ======
 * 2017 - 2019: M.Tech. in Instrumentation and Control - Biomedical Instrumentation, College of Engineering, Pune [(COEP)](https://www.coep.org.in). [[Diploma](http://saketadhau.github.io/files/MTech_Diploma.pdf)] [[Transcripts](http://saketadhau.github.io/files/M_Transcripts.pdf)]
@@ -18,9 +22,11 @@ Work experience
 ======
 * June - August, 2019: Post Graduate Trainee Engineer - [Aker Solutions](https://www.akersolutions.com), Pune, Inida.
   * Part of the Application Engineering Department
+  * Developed automated method for testing of the subsea module used in offshore oil fields.
 
 * June - August, 2015: Intern - [Bosch Chassis Systems Pvt. Ltd.](https://www.bosch.in/our-company/bosch-in-india/pune/), Pune, Inida.
-  * PLC Backup, maintenance, reduction in MTTR and MTBR.
+  * PLC Backup, maintenance analysis of Mean Time To Repair (MTTR) and Mean Time Between Repair (MTBR) on the assembly lines (NOAH, Line 51, TMC line).
+  * Worked with the TeF department towards maintenance and predictive safety standards.
   
 Awards
 ======
@@ -41,5 +47,3 @@ Research Interests
 * Biomedical control applications
 
 
-
-[Download complete CV here](http://saketadhau.github.io/files/saket_CV.pdf) - Updated on 10 April 2021
