@@ -1,5 +1,6 @@
 ---
-title: "Teaching experience 1"
+title: "Microcontroller Techniques and Its Applications for Embedded
+Systems Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1

@@ -25,7 +25,7 @@ Work experience
 Awards
 ======
 * 2019: Xilinx University program - [Student support](https://www.xilinx.com/support/university.html).
-  * Awarded with Xilinx Pynq kit for research.
+  * Awarded with Xilinx Pynq development board and software.
 
 * 2018: Student travel support program - Indian Control Conference (ICC), IIT Delhi.  
 
