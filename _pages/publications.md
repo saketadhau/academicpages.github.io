@@ -11,8 +11,6 @@ Peer-reviewed Conference Publications
 
 * N. Mohanty, **S. Adhau,** D. Ingole, D. Sonawane, "Hardware Implementation of Low- complexity Deep Learning-based Model Predictive Controller," _2021 19<sup>th</sup> European Control Conference (ECC),_ Rotterdam, The Netherlands, 2021, In-Press.
 
-* C. Jugade, V. Patne,  **S. Adhau,** D. Ingole, D. Sonawane, "FPGA Implementation Frame- work for Accelerating Nonlinear MPC Through Machine Learning," _2021 7<sup>th</sup> IFAC Conference on Nonlinear Model Predictive Control (NMPC)_, Brastilava, Slovakia, 2021,  Submitted.
-
 * **S. Adhau**, S. Patil, D. Ingole and D. Sonawane, "Embedded Implementation of Deep Learning-based Linear Model Predictive Control," _2019 Sixth Indian Control Conference (ICC)_, Hyderabad, India, 2019, pp. 200-205. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123159)]
 
 * **S. Adhau**, S. Patil, D. Ingole and D. Sonawane, "Implementation and Analysis of Nonlinear Model Predictive Controller on Embedded Systems for Real-Time Applications," _2019 18<sup>th</sup> European Control Conference (ECC)_, Naples, Italy, 2019, pp. 3359-3364. [[PDF](https://ieeexplore.ieee.org/iel7/8778424/8795605/08796118.pdf)]
