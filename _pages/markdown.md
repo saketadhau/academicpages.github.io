@@ -9,6 +9,8 @@ redirect_from:
 
 ## Locations of key files/directories
 
+<a href="https://info.flagcounter.com/q8wX"><img src="https://s11.flagcounter.com/count2/q8wX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_6/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
