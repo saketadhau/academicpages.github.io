@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* 2017 - 2019: M.Tech. in Instrumentation and Control - Biomedical Instrumentation, College of Engineering, (<a href="https://www.coep.org.in" target="_blank">COEP</a>), Pune. [<a href="http://saketadhau.github.io/files/MTech_Diploma.pdf" target="_blank">Diploma</a>] [<a href="http://saketadhau.github.io/files/M_Transcripts.pdf" target="_blank">Transcripts</a>] 
+* 2017 - 2019: M.Tech. in Instrumentation and Control - Biomedical Instrumentation, College of Engineering, (<a href="https://www.coep.org.in" target="_blank">COEP</a>), Pune. [<a href="http://saketadhau.github.io/files/m_thesis.pdf" target="_blank">Transcripts</a>]  [<a href="http://saketadhau.github.io/files/MTech_Diploma.pdf" target="_blank">Diploma</a>] [<a href="http://saketadhau.github.io/files/M_Transcripts.pdf" target="_blank">Transcripts</a>] 
 * 2013 - 2017: B.Engg in Instrumentation and Control, Savitribai Phule Pune University (<a href="http://www.unipune.ac.in" target="_blank">SPPU</a>). [<a href="http://saketadhau.github.io/files/BE_Diploma.pdf" target="_blank">Diploma</a>]
 
 Work experience
