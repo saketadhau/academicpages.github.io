@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<a href="http://saketadhau.github.io/files/saket_CV.pdf" target="_blank">Download detailed CV here</a> - Updated on 12<sup>th</sup> April, 2021.
+<a href="http://saketadhau.github.io/files/saket_CV.pdf" target="_blank">Download detailed CV here</a> - Updated on 07<sup>th</sup> June, 2021.
 
 
 Education
@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+* September, 2019 - Ongoing: Researcher - Machine Learning and Optimization
+  * Part of the project “Intelligent use of data to build optimization tools for cyber-physical systems in the process industry” funded by the Research Council of Norway.
+  * By leveraging big data and machine-learning algorithms, task is to utilize process data to develop machine-learning based models (also known as digital-twins), that can be used for developing optimization tools. This will enable to address the     challenges with respect to developing models for optimization.
+
 * June - August, 2019: Post Graduate Trainee Engineer - [Aker Solutions](https://www.akersolutions.com), Pune, Inida.
   * Part of the Application Engineering Department
   * Developed automated method for testing of the subsea module used in offshore oil fields.
