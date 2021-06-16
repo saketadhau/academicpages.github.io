@@ -15,10 +15,8 @@ redirect_from:
 
 Work experience
 ======
-* From September, 2019: Researcher - Machine Learning and Optimization, <a href="https://www.ntnu.edu" target="_blank">Norwegian University of Science and Technology</a>, Trondheim, Norway.
-  * Part of the project “Intelligent use of data to build optimization tools for cyber-physical systems in the process industry” funded by the Research Council of Norway.
-  * By leveraging big data and machine-learning algorithms, task is to utilize process data to develop machine-learning based models (also known as digital-twins), that can be used for developing optimization tools. This will enable to address the     challenges with respect to developing models for optimization.
-
+* From September, 2019: PhD Researcher - Machine Learning and Optimization, <a href="https://www.ntnu.edu" target="_blank">Norwegian University of Science and Technology</a>, Trondheim, Norway.
+  
 * June - August, 2019: Post Graduate Trainee Engineer - [Aker Solutions](https://www.akersolutions.com), Pune, Inida.
   * Part of the Application Engineering Department
   * Developed automated method for testing of the subsea module used in offshore oil fields.
