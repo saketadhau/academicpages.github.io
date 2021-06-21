@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saket Adhau"
 title_separator          : "-"
 name                     : &name "Saket Adhau"
-description              : &description "Researcher - Machine Learning and Optimization at NTNU"
+description              : &description "PhD Student - Machine Learning and Optimization at NTNU"
 url                      : https://saketadhau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saketadhau/saketadhau.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : Saket Adhau
   avatar           : "saket.jpg"
-  bio              : "Researcher - Machine Learning and Optimization at NTNU"
+  bio              : "PhD Student - Machine Learning and Optimization at NTNU"
   location         : "Trondheim, Norway"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=rUQxY7QAAAAJ&hl=en
-  email            : saketadhau@live.com
+  email            : saket.adhau@ntnu.no
   researchgate     : "https://www.researchgate.net/profile/Saket-Adhau"
   uri              :
   bitbucket        :
