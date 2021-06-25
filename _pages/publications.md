@@ -15,7 +15,7 @@ Peer-reviewed Conference Publications
 
 * **S. Adhau**, S. Patil, D. Ingole and D. Sonawane, "Implementation and Analysis of Nonlinear Model Predictive Controller on Embedded Systems for Real-Time Applications," _2019 18<sup>th</sup> European Control Conference (ECC)_, Naples, Italy, 2019, pp. 3359-3364. [[PDF](https://ieeexplore.ieee.org/iel7/8778424/8795605/08796118.pdf)]
 
-* **S. Adhau**, K. Phalke, A. Nalawade, D. Ingole, S. Patil and D. Sonawane, "Implementation and Analysis of Offset-Free Explicit Model Predictive Controller on FPGA," _2019 Fifth Indian Control Conference (ICC)_, New Delhi, India, 2019, pp. 231-236. [[PDF](https://ieeexplore.ieee.org/iel7/8700505/8715547/08715619.pdf)] [[Slides](https://github.com/saketadhau/saketadhau.github.io/blob/master/files/ICC2019ppt.pdf)]
+* **S. Adhau**, K. Phalke, A. Nalawade, D. Ingole, S. Patil and D. Sonawane, "Implementation and Analysis of Offset-Free Explicit Model Predictive Controller on FPGA," _2019 Fifth Indian Control Conference (ICC)_, New Delhi, India, 2019, pp. 231-236. [[PDF](https://ieeexplore.ieee.org/iel7/8700505/8715547/08715619.pdf)] [<a href="http://saketadhau.github.io/files/ICC2019ppt.pdf" target="_blank">Slides</a>] 
 
 * **S. Adhau**, R. Surwase and K. H. Kowdiki, "Design of fully automated low cost hydroponic system using LabVIEW and AVR microcontroller," _2017 IEEE International Conference on Intelligent Techniques in Control, Optimization and Signal Processing (INCOS)_, Srivilliputtur, India, 2017, pp. 1-4. [[PDF](https://ieeexplore.ieee.org/iel7/8294072/8303064/08303091.pdf)]
 
